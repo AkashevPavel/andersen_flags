@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Andersen_flags_hw3</string>
+    <string name="load_image_button">load</string>
+    <string name="download_bar_hint">place for link</string>
+</resources>
